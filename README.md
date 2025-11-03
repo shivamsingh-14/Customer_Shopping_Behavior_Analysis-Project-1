@@ -1,1 +1,2 @@
 # Customer_Shopping_Behavior_Analysis-Project-1
+The Customer Shopping Behavior Analysis project aims to explore and understand customer purchasing patterns using data analytics and visualization techniques. The project focuses on identifying key factors that influence buying decisions, customer segmentation, and shopping trends to help businesses improve their marketing strategies and customer experience.
